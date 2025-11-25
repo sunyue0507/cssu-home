@@ -21,3 +21,6 @@ cards:
 
     如果进入后显示“404 - Not Found”，说明对应通知无链接~
 
+{% import 'macros/card_macro.html' as card_macro %}
+
+{{ card_macro.render_cards(cards) }}
