@@ -1,9 +1,9 @@
 ---
 cards:
-  - ddl: 2025-05-22
-    title: 文军新长征，重跑"西迁路"
-    detail: 下载"浙大体艺"APP，登录后在首页模块中进入"我的比赛"进行报名，报名截止时间为【5月22日】
-    href:  https://tyys.zju.edu.cn/redir.php?catalog_id=191753&object_id=215433
+  - ddl: 2026-05-05
+    title: “竞计·逐光杯”羽毛球赛
+    detail: 本次比赛分为学生团体赛和师生趣味赛两个赛道，学生赛可自行组队报名；师生赛可提前和老师搭档报名，也可先报名后续匹配搭档，同时设有娱乐组和竞技组，新手友好，参与即有纪念奖牌与保底0.5二课分奖励，冠亚季军还有专属奖品。
+    href: https://www.wjx.top/vm/YkkE2DK.aspx
     tags:
       - text: 体育赛事
         class: tag-category
